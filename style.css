@@ -1,0 +1,18 @@
+.collapse,.navbar-header{
+    background-color: #ffce47;
+}
+marquee{
+    color: cornsilk;
+    background-color:grey
+}
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+iframe{
+    height: 720px;
+}
+
+
+
+
